@@ -48,10 +48,3 @@ According to the United States EPA, Indoor Air Quality (IAQ) refers to the air q
 2. Monitor real-time air quality data and alerts on the Flutter app interface.
 3. Follow personalized recommendations to maintain good indoor air quality.
 4. Engage with the gamified reward system to earn incentives for maintaining air quality.
-
-## Acknowledgements
-- Special thanks to [Pethu Aravind](https://github.com/Aravind011464) & [Vignesvern](https://github.com/Vignesvern) for their contributions and support.
-- This project was inspired by the need for real-time monitoring and improvement of indoor air quality for healthier living environments.
-
-## Contact
-For any inquiries or support, please contact [rsathishkumar1963@gmail.com](rsathishkumar1963@gmail.com).
